@@ -1,0 +1,11 @@
+{
+  "name": "cares4pet",
+  "version": "1.0.0",
+  "description": "A complete pet care online-shop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bhaskar kumar",
+  "license": "ISC"
+}
